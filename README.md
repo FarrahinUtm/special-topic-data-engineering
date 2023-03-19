@@ -52,7 +52,7 @@ data engineering, database systems and technologies. Various topics of interests
 | 30 | NUR IZZAH MARDHIAH BINTI RASHIDI | izzahmardhiah | [:octocat:](https://github.com/izzahmardhiah) | 
 | 31 | NUR SYAMALIA FAIQAH BINTI MOHD KAMAL | nursyamalia | [:octocat:](https://github.com/nursyamalia) | 
 | 32 | NURARISSA DAYANA BINTI MOHD SUKRI | yanakunn | [:octocat:](https://github.com/yanakunn) | 
-| 33 | NURFARRAHIN BINTI CHE ALIAS | farrahin | [:octocat:](https://github.com/farrahin) | 
+| 33 | NURFARRAHIN BINTI CHE ALIAS | farrahin | [:octocat:](https://github.com/FarrahinUtm) | 
 | 34 | ONG HAN WAH | ongwah | [:octocat:](https://github.com/ongwah) | 
 | 35 | QAISARA BINTI ROHZAN | qaisarrra | [:octocat:](https://github.com/qaisarrra) | 
 | 36 | RADIN DAFINA BINTI RADIN ZULKAR NAIN | radindafina | [:octocat:](https://github.com/radindafina) | 
